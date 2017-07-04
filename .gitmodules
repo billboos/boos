@@ -1,0 +1,3 @@
+[submodule "themes/hugo-academic"]
+  path = themes/hugo-academic-theme
+  url = https://github.com/billboos/hugo-academic-theme.git

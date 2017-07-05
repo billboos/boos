@@ -13,7 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Atmospheric dynamics",
-    "Tropical climate",
+    "Tropical climate, including monsoons and tropical cyclones",
     "Earth's hydrological cycle"
   ]
 

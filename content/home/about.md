@@ -12,31 +12,30 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Atmospheric dynamics",
+    "Tropical climate",
+    "Earth's hydrological cycle"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Ph.D. in Atmospheric Science"
+  institution = "MIT"
   year = 2008
+
+[[education.courses]]
+  course = "M.Sc. in Geosystems"
+  institution = "MIT"
+  year = 2002
+
+[[education.courses]]
+  course = "B.S. in Physics, B.A. in Math"
+  institution = "SUNY Binghamton"
+  year = 1997
  
 +++
 
-# Biography
+# About 
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research focuses on the fluid dynamics of Earth’s tropical atmosphere. One emphasis is monsoon circulations, which deliver water to billions of people in socially vulnerable, agricultural economies. Despite the importance of monsoon rainfall, there is no established theory that explains the observed variability of monsoons, and climate models make disparate predictions for next-century changes in monsoon rainfall. In my work, I pay particular attention to the treatment of phase changes of water that result in precipitation, as the interaction between precipitation and planetary-scale flow is one of the central unresolved problems of tropical meteorology. To this end, I combine theory, observational analyses, and numerical models, frequently using computationally intensive, high resolution simulations to explicitly represent precipitating atmospheric convection.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

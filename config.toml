@@ -156,8 +156,13 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+  url = "#publications"
+  weight = 3
+
+[[menu.main]]
+  name = "Upcoming talks"
+  url = "#talks"
+  weight = 4
 
 [[menu.main]]
   name = "Teaching"

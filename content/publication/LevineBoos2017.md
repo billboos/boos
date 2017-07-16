@@ -1,6 +1,6 @@
 +++
 selected = true
-date = 2017-06-08
+date = "2017-06-08"
 authors = ["Xavier J. Levine", "William R. Boos"]
 publication = "Geophysical Research Letters"
 title = "Land surface albedo bias in climate models and its association with tropical rainfall"

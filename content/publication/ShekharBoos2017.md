@@ -1,6 +1,6 @@
 +++
 selected = true
-date = 2017-07-15
+date = "2017-07-15"
 authors = ["Ravi Shekhar", "William R. Boos"]
 publication = "Journal of Climate"
 title = "Weakening and shifting of the Saharan shallow meridional circulation during wet years of the West African monsoon"

@@ -1,6 +1,6 @@
 +++
 selected = true
-date = 2017-07-10
+date = "2017-07-10"
 authors = ["Shineng Hu", "William R. Boos"]
 publication = "Journal of the Atmospheric Sciences"
 title = "The physics of orographic elevated heating in radiative-convective equilibrium"

@@ -1,6 +1,6 @@
 +++
 selected = true
-date = 2017-07-14
+date = "2017-07-14"
 authors = ["Jun Zhai", "William R. Boos"]
 publication = "Quarterly Journal of the Royal Meteorological Society"
 title = "The drying tendency of shallow meridional circulations in monsoons"

@@ -21,7 +21,7 @@ Current courses at UC Berkeley:
 
 Previous courses (all at Yale):
 
-- GG 570 | Cloud Physics and Dynamics, co-taught with Trude Storelvmo (Spring 2011, 2014)
 - GG 322 | Physics of Weather and Climate (Fall 2011, 2013, 2014, 2016)
+- GG 570 | Cloud Physics and Dynamics, co-taught with Trude Storelvmo (Spring 2011, 2014)
 - GG 765 | The General Circulation of Planetary Atmospheres (Spring 2012, 2015, 2017)
  

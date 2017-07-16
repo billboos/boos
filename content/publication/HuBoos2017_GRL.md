@@ -1,6 +1,6 @@
 +++
 selected = true
-date = 2017-07-07
+date = "2017-07-07"
 authors = ["Shineng Hu", "William R. Boos"]
 publication = "Geophysical Research Letters"
 title = "Competing effects of surface albedo and orographic elevated heating on regional climate"

@@ -158,6 +158,11 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  name = "Group members"
+  url = "#projects"
+  weight = 3
+
+[[menu.main]]
   name = "Publications"
   url = "#publications"
   weight = 3

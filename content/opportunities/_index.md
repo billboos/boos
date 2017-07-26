@@ -19,8 +19,9 @@ and climate.  The position involves using newly available observations and innov
 frameworks to build statistical models of tropical rainfall, with the goal of advancing understanding and
 prediction of hydrological variability on a range of time scales.  The exact focus of the work will
 depend on the candidate's background and interests, but could center on 
-precipitation extremes in monsoon regions (including Asia, Africa, and the Americas), perhaps with
-some attention to the human impacts of these extreme events.
+atmospheric vortices and waves in monsoon regions (including Asia, Africa, and the Americas), the extreme
+rainfall they produce, and perhaps 
+their human impacts.
 The appointment will be in the [Department of Earth and Planetary Science](http://eps.berkeley.edu) at [UC Berkeley](http://berkeley.edu), with an initial term of
 one year and the expectation that progress would merit reappointment for a second year.  A Ph.D. or equivalent in a relevant field is 
 required by the start date.  Starting salary is commensurate with experience.

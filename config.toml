@@ -21,10 +21,10 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "William R. Boos"
   role = "Associate Professor"
-  organization = "Department of Earth and Planetary Science, University of California, Berkeley"
+  organization = "Department of Earth & Planetary Science, University of California, Berkeley"
   organization_url = "http://eps.berkeley.edu"
   role2 = "Faculty Scientist"
-  organization2 = "Climate and Ecosystem Sciences Division, Lawrence Berkeley National Lab"
+  organization2 = "Climate & Ecosystem Sciences Division, Lawrence Berkeley National Lab"
   organization2_url = "https://eesa.lbl.gov/our-divisions/climate-ecosystem-sciences/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

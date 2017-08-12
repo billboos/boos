@@ -6,10 +6,10 @@ date = "2017-07-12"
 title = "Michael Diaz"
 
 # Project summary to display on homepage.
-summary = "Postdoctoral scholar (UC Berkeley)"
+summary = "Postdoctoral scholar at UC Berkeley"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "XavierLevine.jpg"
+image_preview = "MichaelDiaz.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-#image = "headers/XavierLevine.jpg"
+#image = "headers/MichaelDiaz.jpg"
 #caption = "My caption :smile:"
 
 +++

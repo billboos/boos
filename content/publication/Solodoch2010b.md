@@ -11,7 +11,7 @@ selected = false
 title = "Excitation of Intraseasonal Variability in the Equatorial Atmosphere by Yanai Wave Groups via WISHE-Induced Convection"
 [[url_custom]]
    name = "Journal site"
-   url = "http://arxiv.org/abs/1002.2340%5Cnhttp://journals.ametsoc.org/doi/abs/10.1175/2010JAS3564.1"
+   url = "https://doi.org/10.1175/2010JAS3564.1"
 
 
 +++

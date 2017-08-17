@@ -10,6 +10,8 @@ publication = "Quarterly Journal of the Royal Meteorological Society"
 publication_short = "*Q. J. R. Meteorol. Soc.*, 2017, **143**, 845-851"
 selected = false
 title = "The influence of orographic Rossby and gravity waves on rainfall"
-
+[[url_custom]]
+   name = "Journal site"
+   url = "http://onlinelibrary.wiley.com/doi/10.1002/qj.2969/full"
 
 +++

@@ -5,6 +5,7 @@ authors = ["Cohen, Naftali Y", "Boos, William R"]
 date = "2014-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/CohenBoos2014_withSI.pdf"
 publication = "*Geophys. Res. Lett*"
 publication_short = "*Geophys. Res. Lett*, 2014, **41**, 7846-7853"
 selected = false

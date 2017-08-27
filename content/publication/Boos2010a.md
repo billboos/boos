@@ -5,6 +5,7 @@ authors = ["Boos, William R.", "Kuang, Zhiming"]
 date = "2010-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/BoosKuang2010JAS.pdf"
 publication = "*J. Atmos. Sci.*"
 publication_short = "*J. Atmos. Sci.*, 2010, **67**, 3673-3691"
 selected = false

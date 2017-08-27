@@ -5,6 +5,7 @@ authors = ["Hurley, J.V.", "Boos, W.R."]
 date = "2013-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/HurleyBoos2013.pdf"
 publication = "*J. Clim.*"
 publication_short = "*J. Clim.*, 2013, **26**, 9507-9527"
 selected = false

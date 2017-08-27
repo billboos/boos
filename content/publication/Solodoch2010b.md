@@ -5,6 +5,7 @@ authors = ["Solodoch, Aviv", "Boos, William R.", "Kuang, Zhiming", "Tziperman, E
 date = "2010-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/SolodochEtAl2011.pdf"
 publication = "*J. Atmos. Sci.*"
 publication_short = "*J. Atmos. Sci.*, 2010, **68**, 210-225"
 selected = false

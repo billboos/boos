@@ -5,6 +5,7 @@ authors = ["Storelvmo, T.", "Boos, W.R.", "Herger, N."]
 date = "2014-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/StorelvmoEtAl2014.pdf"
 publication = "*Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.*"
 publication_short = "*Philos. Trans. R. Soc. A Math. Phys. Eng. Sci.*, 2014, **372**, 20140116"
 selected = false

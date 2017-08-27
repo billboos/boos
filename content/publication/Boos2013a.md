@@ -5,6 +5,7 @@ authors = ["Boos, William R", "Kuang, Zhiming"]
 date = "2013-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/BoosKuang2013.pdf"
 publication = "*Sci. Rep.*"
 publication_short = "*Sci. Rep.*, 2013, **3**, 1192"
 selected = false

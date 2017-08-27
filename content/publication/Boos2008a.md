@@ -5,6 +5,7 @@ authors = ["Boos, W.R.", "Emanuel, K.A."]
 date = "2008-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/BoosEmanuel2008b.pdf"
 publication = "*J. Atmos. Sci.*"
 publication_short = "*J. Atmos. Sci.*, 2008, **65**, 3758-3778"
 selected = false

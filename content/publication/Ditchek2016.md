@@ -5,6 +5,7 @@ authors = ["Ditchek, S.D.", "Boos, W.R.", "Camargo, S.J.", "Tippett, M.K."]
 date = "2016-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/DitchekEtAl2016.pdf"
 publication = "*J. Clim.*"
 publication_short = "*J. Clim.*, 2016, **29**, 5189-5208"
 selected = false

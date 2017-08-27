@@ -5,6 +5,7 @@ authors = ["Levine, X.J.", "Boos, W.R."]
 date = "2016-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/LevineBoos2016.pdf"
 publication = "*J. Clim.*"
 publication_short = "*J. Clim.*, 2016, **29**, 7851-7867"
 selected = false

@@ -5,6 +5,7 @@ authors = ["Boos, W.R.", "Korty, R.L."]
 date = "2016-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/BoosKorty2016_withSI.pdf"
 publication = "*Nat. Geosci.*"
 publication_short = "*Nat. Geosci.*, 2016, **9**, 892-897"
 selected = false

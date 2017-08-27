@@ -7,6 +7,7 @@ image_preview = ""
 math = true
 publication = "*J. Clim.*"
 publication_short = "*J. Clim.*, 2016, **29**, 4741-4761"
+url_pdf = "pdf/ShekharBoos2016.pdf"
 selected = false
 title = "Improving energy-based estimates of monsoon location in the presence of proximal deserts"
 [[url_custom]]

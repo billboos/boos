@@ -5,6 +5,7 @@ authors = ["Cohen, Naftali Y.", "Boos, William R."]
 date = "2017-01-01"
 image_preview = ""
 math = true
+url_pdf = "pdf/CohenBoos2017.pdf"
 publication_types = ["2"]
 publication = "Quarterly Journal of the Royal Meteorological Society"
 publication_short = "*Q. J. R. Meteorol. Soc.*, 2017, **143**, 845-851"

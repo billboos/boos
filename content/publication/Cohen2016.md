@@ -7,6 +7,7 @@ image_preview = ""
 math = true
 publication = "*Geophys. Res. Lett.*"
 publication_short = "*Geophys. Res. Lett.*, 2016, **43**, 466-471"
+url_pdf = "pdf/CohenBoos2016_withSI.pdf"
 selected = false
 title = "Modulation of subtropical stratospheric gravity waves by equatorial rainfall"
 [[url_custom]]

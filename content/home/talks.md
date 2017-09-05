@@ -19,9 +19,6 @@ detailed_list = false
 
 +++
 
-
-[International workshop on the Asian monsoon in a warmer world](http://www.lasg.ac.cn/monsoon/), Aug. 20-23, 2017, Chengjiang, Yunnan, China
-
 University of Washington's Program on Climate Change [Summer Institute: Climate change and population health](https://pcc.uw.edu/events/pcc-summer-institute/), Sept. 13-15, 2017, Friday Harbor, Washington, USA
 
 Geological Society of America's [annual meeting](http://community.geosociety.org/gsa2017), special session entitled ``Asthenosphere to Atmosphere: Tectonics, Topography, and Climate'', Oct. 22-25, Seattle, Washington, USA

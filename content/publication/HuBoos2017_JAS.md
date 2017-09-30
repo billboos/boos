@@ -1,6 +1,6 @@
 +++
 selected = true
-date = "2017-07-10"
+date = "2017-09-01"
 authors = ["Hu, Shineng", "Boos, William R."]
 publication = "Journal of the Atmospheric Sciences"
 publication_short = "*J. Atmos. Sci.*, 2017, **74**, 2949-2965"

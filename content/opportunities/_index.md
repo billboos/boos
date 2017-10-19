@@ -39,24 +39,14 @@ respond to all queries.
 
 ## Graduate students
 
-I am actively seeking graduate students to join my group.  Prospective students are encouraged to apply
-for admission to our [doctoral program](http://eps.berkeley.edu/graduate-students).
+I am actively seeking graduate students to join my group and plan to admit two students to start in Fall 2018.  Prospective students are encouraged to apply
+for admission to our [doctoral program](http://eps.berkeley.edu/graduate-students).  Due to the number of inquiries, I cannot reply to individual requests concerning graduate admissions; I plan to arrange phone or video calls with a subset of candidates after reviewing applications.
 
-## Undergraduate interns
+## Student interns
 
-My group has multiple openings for undergraduate interns.
-
-The most immediate need is for a web 
-developer to assist in updating and maintaining a site that provides information on the tropical
+My group has an opening for a (paid) intern to develop and maintain a website that provides information on the 
 rainfall variability that affects billions of people living in tropical countries:
 http://WorldMonsoons.com.  The exact nature of this position will depend on the expertise and 
-interests of the candidate, and could range from simple web development tasks to creation and
+interests of the candidate, and could range from simple web development/maintenance tasks to creation and
 management of complex algorithms that ingest and display large geophysical datasets.
-
-I am also seeking an intern to assist with minor updates and extensions of this research website.
-
-Students interested in conducting research in tropical climate dynamics are encouraged to contact me.
-Positions are available in numerical modeling and data analysis.  Candidates must have experience
-working in a Linux computing environment and using either Python, Matlab, or similar data analysis
-language.
 

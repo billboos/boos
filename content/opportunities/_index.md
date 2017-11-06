@@ -15,7 +15,7 @@ caption = ""
 
 My group has an opening for a postdoctoral scientist with expertise in using statistical models to understand
 and/or predict weather
-and climate.  The position involves using newly available observations and innovative theoretical 
+and climate.  Candidates from a broad range of backgrounds will be considered (e.g. those coming from the field of statistics with little to no experience in the earth sciences, or vice versa).  The position involves using newly available observations and innovative theoretical 
 frameworks to build statistical models of tropical rainfall, with the goal of advancing understanding and
 prediction of hydrological variability on a range of time scales.  The exact focus of the work will
 depend on the candidate's background and interests, but could center on 
@@ -23,7 +23,7 @@ atmospheric vortices and waves in monsoon regions (including Asia, Africa, and t
 rainfall they produce, and perhaps 
 their human impacts.
 The appointment will be in the [Department of Earth and Planetary Science](http://eps.berkeley.edu) at [UC Berkeley](http://berkeley.edu), with an initial term of
-one year and the expectation that progress would merit reappointment for a second year.  A Ph.D. or equivalent in a relevant field is 
+one year and the expectation that progress would merit reappointment for a second year or more.  A Ph.D. or equivalent in a relevant field is 
 required by the start date.  Starting salary is commensurate with experience.
 UC Berkeley has an excellent benefits package and a number of policies and programs in place to support 
 employees as they balance work and family.

@@ -19,7 +19,7 @@ detailed_list = false
 
 +++
 
-Geological Society of America's [annual meeting](http://community.geosociety.org/gsa2017), special session entitled ``Asthenosphere to Atmosphere: Tectonics, Topography, and Climate'', Oct. 22-25, Seattle, Washington, USA
+MIT Lorenz Center Workshop: [Water and Climate Change: Connecting the Paleoclimate Record to Future Projections](http://lorenz.scripts.mit.edu/wp/2017/11/28/workshop-water-and-climate/), June 3-6, 2018, Dedham, Massachusetts
 
-World Meteorological Organization's [International Workshop on Monsoons](https://www.wmo.int/pages/prog/arep/wwrp/new/iwm-6.html), Nov. 13-17, 2017, Singapore
+International Centre for Theoretical Physics (ICTP) [Workshop on the ITCZ and Monsoons](http://indico.ictp.it/event/8457/), July 2-5, 2018, Trieste, Italy 
  

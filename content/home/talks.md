@@ -19,6 +19,8 @@ detailed_list = false
 
 +++
 
+Texas A\&M Geography Department seminar, April 6, 2018
+
 MIT Lorenz Center Workshop: [Water and Climate Change: Connecting the Paleoclimate Record to Future Projections](http://lorenz.scripts.mit.edu/wp/2017/11/28/workshop-water-and-climate/), June 3-6, 2018, Dedham, Massachusetts
 
 International Centre for Theoretical Physics (ICTP) [Workshop on the ITCZ and Monsoons](http://indico.ictp.it/event/8457/), July 2-5, 2018, Trieste, Italy 

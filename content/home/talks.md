@@ -18,6 +18,7 @@ count = 3
 detailed_list = false
 
 +++
+Stanford Atmosphere, Ocean, and Climate Dynamics seminar, March 19, 2018
 
 Texas A\&M Geography Department seminar, April 6, 2018
 

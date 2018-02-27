@@ -6,8 +6,8 @@ date = "2017-01-01"
 image_preview = ""
 math = true
 url_pdf = "pdf/HaertelEtAl2017.pdf"
-publication = "*Atmosphere*, 2017, **8**"
-publication_short = "*Atmosphere*, 2017, **8**"
+publication = "*Atmosphere*"
+publication_short = "*Atmosphere*, 2017, **8**, 158"
 selected = false
 title = "Origins of moist air in global Lagrangian simulations of the Madden–Julian Oscillation"
 [[url_custom]]

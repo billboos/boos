@@ -18,8 +18,6 @@ count = 3
 detailed_list = false
 
 +++
-Stanford Atmosphere, Ocean, and Climate Dynamics seminar, March 19, 2018
-
 Texas A\&M Geography Department seminar, April 6, 2018
 
 MIT Lorenz Center Workshop: [Water and Climate Change: Connecting the Paleoclimate Record to Future Projections](http://lorenz.scripts.mit.edu/wp/2017/11/28/workshop-water-and-climate/), June 3-6, 2018, Dedham, Massachusetts

@@ -22,7 +22,7 @@ I am actively seeking graduate students to join my group to start in Fall 2019. 
 
 My group has an opening for a (paid) intern to develop and maintain a website that provides information on the 
 rainfall variability that affects billions of people living in tropical countries:
-http://WorldMonsoons.com.  The exact nature of this position will depend on the expertise and 
+http://WorldMonsoons.org.  The exact nature of this position will depend on the expertise and 
 interests of the candidate, and could range from simple web development/maintenance tasks to creation and
 management of complex algorithms that ingest and display large geophysical datasets.
 

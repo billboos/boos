@@ -18,7 +18,12 @@ count = 3
 detailed_list = false
 
 +++
-Texas A\&M Geography Department seminar, April 6, 2018
+
+[comment]: # (Texas A\&M Geography Department seminar, April 6, 2018 )
+
+Stanford Earth System Science seminar, April 23, 2018
+
+Caltech Environmental Science and Engineering seminar, May 2, 2018
 
 MIT Lorenz Center Workshop: [Water and Climate Change: Connecting the Paleoclimate Record to Future Projections](http://lorenz.scripts.mit.edu/wp/2017/11/28/workshop-water-and-climate/), June 3-6, 2018, Dedham, Massachusetts
 

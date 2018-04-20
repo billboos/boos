@@ -158,7 +158,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Group members"
+  name = "Group"
   url = "#projects"
   weight = 2
 
@@ -178,14 +178,19 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
+  name = "Data"
+  url = "#data"
+  weight = 6
+
+[[menu.main]]
   name = "Opportunities"
   url = "#opportunities"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Taxonomies.
 [taxonomies]

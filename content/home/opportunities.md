@@ -14,5 +14,5 @@ weight = 65
 
 +++
 
-My group [currently has openings](/opportunities/) for a graduate student and an undergraduate intern.
+My group [currently has openings](/opportunities/) for two postdoctoral scientists, a graduate student, and an undergraduate intern.
  

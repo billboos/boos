@@ -19,15 +19,9 @@ detailed_list = false
 
 +++
 
-[comment]: # (Texas A\&M Geography Department seminar, April 6, 2018 )
-
-Stanford Earth System Science seminar, April 23, 2018
-
-Caltech Environmental Science and Engineering seminar, May 2, 2018
-
-MIT Lorenz Center Workshop: [Water and Climate Change: Connecting the Paleoclimate Record to Future Projections](http://lorenz.scripts.mit.edu/wp/2017/11/28/workshop-water-and-climate/), June 3-6, 2018, Dedham, Massachusetts
-
-International Centre for Theoretical Physics (ICTP) [Workshop on the ITCZ and Monsoons](http://indico.ictp.it/event/8457/), July 2-5, 2018, Trieste, Italy 
+*I'm thinking about my carbon footprint and am posting travel plans here in hopes that future trips might be combined to minimize air travel. One cross-country, round-trip U.S. flight [emits about](http://co2offsets.sustainabletravelinternational.org/ua/offsets) 1000 kg of CO2, while one long-haul international round trip emits about 2000 kg of CO2.  In comparison, all of the electricity, natural gas, and municipal water used by my 2-person household [are estimated to be](https://coolclimate.berkeley.edu/calculator) generate about 4,500 kg of CO2 per year.* 
 
 Universidad Nacional Autónoma de México, annual Panorama of the Atmospheric Sciences, July 31, 2018
+
+American Meteorological Society Annual Meeting, Phoenix, Arizona, January 6-10, 2019
  

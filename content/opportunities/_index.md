@@ -1,16 +1,17 @@
 +++
-title = "A new research partnership on monsoon precipitation"
+title = "Opportunities — "
 date = "2017-01-01T00:00:00Z"
 math = true 
 highlight = true 
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "image001.png"
 caption = ""
 
 +++
 
+# A new research partnership on monsoon precipitation
  
 A new multi-institutional effort to improve understanding and prediction of monsoon rainfall will launch in Fall 2018.  This effort is a partnership between [William Boos](http://boos.berkeley.edu) at UC Berkeley, [Travis O’Brien](https://eesa.lbl.gov/profiles/travis-a-obrien) at the Lawrence Berkeley National Lab, and [Paul Ullrich](https://climate.ucdavis.edu) at UC Davis.  Multiple job opportunities are available across several projects, in addition to traditional graduate student positions.
 

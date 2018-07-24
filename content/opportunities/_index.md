@@ -1,5 +1,5 @@
 +++
-title = "Opportunities — "
+title = "Opportunities"
 date = "2017-01-01T00:00:00Z"
 math = true 
 highlight = true 
@@ -11,7 +11,7 @@ caption = ""
 
 +++
 
-# A new research partnership on monsoon precipitation
+## **A new research partnership on monsoon precipitation**
  
 A new multi-institutional effort to improve understanding and prediction of monsoon rainfall will launch in Fall 2018.  This effort is a partnership between [William Boos](http://boos.berkeley.edu) at UC Berkeley, [Travis O’Brien](https://eesa.lbl.gov/profiles/travis-a-obrien) at the Lawrence Berkeley National Lab, and [Paul Ullrich](https://climate.ucdavis.edu) at UC Davis.  Multiple job opportunities are available across several projects, in addition to traditional graduate student positions.
 
@@ -48,7 +48,7 @@ The position will remain open until filled. Questions regarding the position can
 
 # Graduate student positions
 
-One or two graduate student positions will be available in the research group of William Boos at UC Berkeley, with start dates in Fall 2019.  Prospective students are encouraged to apply for admission to the [doctoral program](http://eps.berkeley.edu/graduate-students) of the Department of Earth and Planetary Science. 
+One or two graduate student positions will be available in the research group of William Boos at UC Berkeley, with start dates in Fall 2019.  These positions are not tied to the particular projects described above, and candidates are encouraged to think broadly and ambitiously about possible thesis topics.  Prospective students are encouraged to apply for admission to the [doctoral program](http://eps.berkeley.edu/graduate-students) of the Department of Earth and Planetary Science. 
 [//]: # (Due to the number of inquiries, I cannot reply to individual requests concerning graduate admissions; I plan to arrange phone or video calls with a subset of candidates after reviewing applications.)
 
 

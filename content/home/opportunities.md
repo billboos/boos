@@ -14,5 +14,5 @@ weight = 65
 
 +++
 
-My group [currently has openings](/opportunities/) for two postdoctoral scientists, a graduate student, and an undergraduate intern.
+I am pleased to announce a new, multi-institutional partnership to improve understanding and prediction of monsoon rainfall.  As part of this new effort, my group [is actively seeking](/opportunities/) two postdoctoral scientists and a software developer/programmer.  We additionally expect to admit one or two new Ph.D. students to start in Fall 2019.
  

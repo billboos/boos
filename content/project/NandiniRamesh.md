@@ -6,7 +6,7 @@ date = "2018-07-27"
 title = "Nandini Ramesh"
 
 # Project summary to display on homepage.
-summary = "Postdoctoral scholar at UC Berkeley (starting Oct 2018)"
+summary = "Postdoctoral scholar, UC Berkeley (starting Oct 2018)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "NandiniRamesh.jpg"

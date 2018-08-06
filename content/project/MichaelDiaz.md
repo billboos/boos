@@ -6,7 +6,7 @@ date = "2017-07-12"
 title = "Michael Diaz"
 
 # Project summary to display on homepage.
-summary = "Postdoctoral scholar at UC Berkeley"
+summary = "Postdoctoral scholar, UC Berkeley"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "MichaelDiaz.jpg"
@@ -16,7 +16,7 @@ image_preview = "MichaelDiaz.jpg"
 tags = ["postdocs"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "https://sites.google.com/view/xavierlevine/home?authuser=0"
+external_link = "http://boos.berkeley.edu/#projects"
 
 # Does the project detail page use math formatting?
 math = false

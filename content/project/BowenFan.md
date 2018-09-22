@@ -6,7 +6,7 @@ date = "2018-08-05"
 title = "Bowen Fan"
 
 # Project summary to display on homepage.
-summary = "Undergraduate student, Peking University"
+summary = "Undergraduate student, visiting from Peking University"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "BowenFan.jpg"

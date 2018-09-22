@@ -23,7 +23,7 @@ The appointment will be in the [Department of Earth and Planetary Science](http:
  
 The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy see: http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct
  
-Applications received by September 1, 2018 will receive full consideration, but the position will remain open until filled.  Applications and questions regarding the position can be directed to William Boos at william.boos@berkeley.edu.  Complete applications include a cover letter, CV, and brief (1 page) statement of research interests; references will be requested at a later stage in the process. Informal inquiries are welcome, although we do not have the capacity to respond to all queries.
+Applications received by October 1, 2018 will receive full consideration, but the position will remain open until filled.  Applications and questions regarding the position can be directed to William Boos at william.boos@berkeley.edu.  Complete applications include a cover letter, CV, and brief (1 page) statement of research interests; references will be requested at a later stage in the process. Informal inquiries are welcome, although we do not have the capacity to respond to all queries.
  
 ### Postdoctoral scientist:  India’s Monsoon Mission
  
@@ -33,7 +33,7 @@ The appointment will be in the Department of Earth and Planetary Science at UC B
  
 The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy see: http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct
  
-Applications received by August 15, 2018 will receive full consideration, but the position will remain open until filled. Applications and questions regarding the position can be directed to William Boos at william.boos@berkeley.edu. Complete applications include a cover letter, CV, and brief (1 page) statement of research interests; references will be requested at a later stage in the process. Informal inquiries are welcome, although we do not have the capacity to respond to all queries.
+Applications received by October 1, 2018 will receive full consideration, but the position will remain open until filled. Applications and questions regarding the position can be directed to William Boos at william.boos@berkeley.edu. Complete applications include a cover letter, CV, and brief (1 page) statement of research interests; references will be requested at a later stage in the process. Informal inquiries are welcome, although we do not have the capacity to respond to all queries.
 
 ### Developer/Programmer
 

@@ -25,7 +25,7 @@ The University of California is an Equal Opportunity/Affirmative Action Employer
  
 Applications received by October 1, 2018 will receive full consideration, but the position will remain open until filled.  Applications and questions regarding the position can be directed to William Boos at william.boos@berkeley.edu.  Complete applications include a cover letter, CV, and brief (1 page) statement of research interests; references will be requested at a later stage in the process. Informal inquiries are welcome, although we do not have the capacity to respond to all queries.
  
-### Postdoctoral scientist:  India’s Monsoon Mission
+### Postdoctoral scientist:  India’s Monsoon Mission (position filled)
  
 The research group of William Boos at UC Berkeley is seeking a postdoctoral scientist with expertise in statistics and atmospheric dynamics. Candidates from a broad range of backgrounds will be considered, including those coming from the field of statistics with little experience in the earth sciences. The position is part of a new project funded by India’s Monsoon Mission titled “Dynamical metrics for predicting genesis and growth of monsoon low pressure systems”.  The project aims to improve understanding and predictions of transient vortices in the South Asian monsoon, the precipitation extremes they produce, and their interaction with the seasonal-mean, continental-scale monsoon flow.
  
@@ -33,7 +33,9 @@ The appointment will be in the Department of Earth and Planetary Science at UC B
  
 The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy see: http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct
  
-Applications received by October 1, 2018 will receive full consideration, but the position will remain open until filled. Applications and questions regarding the position can be directed to William Boos at william.boos@berkeley.edu. Complete applications include a cover letter, CV, and brief (1 page) statement of research interests; references will be requested at a later stage in the process. Informal inquiries are welcome, although we do not have the capacity to respond to all queries.
+[//]: # ( Applications received by October 1, 2018 will receive full consideration, but the position will remain open until filled. Applications and questions regarding the position can be directed to William Boos at william.boos@berkeley.edu. Complete applications include a cover letter, CV, and brief (1 page) statement of research interests; references will be requested at a later stage in the process. Informal inquiries are welcome, although we do not have the capacity to respond to all queries.)
+
+This position has been filled.
 
 ### Developer/Programmer
 

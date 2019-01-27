@@ -25,9 +25,9 @@ detailed_list = false
 
 [//]: # (Department of Energy PI meeting, Washington, DC, November 5-8, 2018)
 
-American Meteorological Society Annual Meeting, Phoenix, Arizona, January 6-10, 2019
+[//]: # (American Meteorological Society Annual Meeting, Phoenix, Arizona, January 6-10, 2019)
 
-Yale University, January 17-18, 2019
+[//]: # (Yale University, January 17-18, 2019)
 
 Peking University, 90th anniversary of the Department of Atmospheric and Oceanic Sciences, May 25-29, 2019
  

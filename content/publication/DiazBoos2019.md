@@ -1,6 +1,6 @@
 +++
 selected = true
-date = "2018-12-14"
+date = "2019-01-10"
 authors = ["Diaz, Michael", "Boos, William R."]
 publication = "Quarterly Journal of the Royal Meteorological Society"
 publication_short = "*Q. J. R. Meteorol. Soc.*, in press"

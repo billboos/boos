@@ -16,7 +16,7 @@ image_preview = "VishnuNair.jpg"
 tags = ["postdocs"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://boos.berkeley.edu/#projects"
+external_link = "https://scholar.google.com/citations?user=wylrk1gAAAAJ&hl=en"
 
 # Does the project detail page use math formatting?
 math = false

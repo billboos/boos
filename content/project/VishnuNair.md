@@ -3,7 +3,7 @@
 date = "2019-01-29"
 
 # Project title.
-title = "Vishnu Nair"
+title = "S. Vishnu"
 
 # Project summary to display on homepage.
 summary = "Postdoctoral scholar, UC Berkeley (sponsored by India's Monsoon Mission)"

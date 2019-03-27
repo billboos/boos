@@ -29,5 +29,7 @@ detailed_list = false
 
 [//]: # (Yale University, January 17-18, 2019)
 
+Berkeley Atmospheric Sciences Center, Annual Symposium (20th anniversary of BASC), April 4-5, 2019
+
 Peking University, 90th anniversary of the Department of Atmospheric and Oceanic Sciences, May 25-29, 2019
  

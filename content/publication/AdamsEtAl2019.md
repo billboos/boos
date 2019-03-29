@@ -1,6 +1,6 @@
 +++
 selected = true
-date = "2019-01-01"
+date = "2019-03-28"
 authors = ["Adams, Arthur D.", "Boos, William R.", "Wolf, Eric T."]
 publication = "Astronomical Journal"
 publication_short = "*Astronomical Journal*, in press"

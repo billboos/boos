@@ -17,6 +17,7 @@ defaultContentLanguageInSubdir = false
 
 [blackfriday]
   hrefTargetBlank = true
+  fractions = false
 
 [params]
   name = "William R. Boos"

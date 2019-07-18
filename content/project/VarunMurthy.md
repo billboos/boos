@@ -16,7 +16,7 @@ image_preview = "VarunMurthy.jpg"
 tags = ["graduate"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://people.earth.yale.edu/profile/varun-srinivasa-murthy/about"
+external_link = "https://sites.google.com/site/varunsmurthy"
 
 # Does the project detail page use math formatting?
 math = false

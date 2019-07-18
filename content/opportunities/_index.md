@@ -44,15 +44,11 @@ A graduate student position will be available in the research group of William B
 
 [//]: # ( This position has been filled.)
 
-### Developer/Programmer
+[//]: # ( ### Developer/Programmer)
 
-The research group of William Boos at UC Berkeley seeks a developer or programmer to support new efforts to analyze and predict tropical precipitation.  The position will involve the creation of new algorithms, the management of large atmospheric and hydrologic datasets, and the production of web content.  A bachelor’s or master’s degree in a scientific or technical field is preferred.
+[//]: # ( The research group of William Boos at UC Berkeley seeks a developer or programmer to support new efforts to analyze and predict tropical precipitation.  The position will involve the creation of new algorithms, the management of large atmospheric and hydrologic datasets, and the production of web content.  A bachelor’s or master’s degree in a scientific or technical field is preferred.)
 
-The position will be in the Department of Earth and Planetary Science at UC Berkeley. Starting salary is commensurate with experience. UC Berkeley has an excellent benefits package and a number of policies and programs in place to support employees as they balance work and family.
-
-The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy see: http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct
-
-The position will remain open until filled. Questions regarding the position can be directed to William Boos at william.boos@berkeley.edu. Complete applications include a cover letter and a CV/resume; references will be requested at a later stage in the process. Informal inquiries are welcome, although we do not have the capacity to respond to all queries.
+[//]: # (The position will be in the Department of Earth and Planetary Science at UC Berkeley. Starting salary is commensurate with experience. UC Berkeley has an excellent benefits package and a number of policies and programs in place to support employees as they balance work and family. The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy see: http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct The position will remain open until filled. Questions regarding the position can be directed to William Boos at william.boos@berkeley.edu. Complete applications include a cover letter and a CV/resume; references will be requested at a later stage in the process. Informal inquiries are welcome, although we do not have the capacity to respond to all queries.)
 
 
 

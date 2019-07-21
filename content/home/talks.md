@@ -33,5 +33,9 @@ detailed_list = false
 
 [//]: # (Peking University, 90th anniversary of the Department of Atmospheric and Oceanic Sciences, May 25-29, 2019)
 
-Department of Energy workshop on precipitation metrics, Washington, D.C., July 1-2, 2019
+[//]: # (Department of Energy workshop on precipitation metrics, Washington, D.C., July 1-2, 2019)
+
+American Geophysical Union Fall Meeting, San Francisco, December 9-13, 2019 (I can walk to this one!)
+
+Monsoon Mission collaboration, Pune, India, December 15-23, 2019
  

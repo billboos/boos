@@ -2,7 +2,7 @@
 abstract = "We showed that an analytical model of monsoons exhibits no abrupt response to forcing changes when one assumes, consistent with observations, that monsoon circulations export energy away from their ascending branch. We claimed that a previous model incorrectly produced an abrupt response because it neglected the adiabatic cooling of rising air in a stably stratified troposphere. Levermann et al. argue that the abrupt response is preserved in their  model as long as adiabatic cooling does not balance the latent heat released during precipitation formation, and that neither theory nor observations support the idea that most of the energy from the rain’s latent heat release is consumed by adiabatic cooling."
 abstract_short = "We showed that an analytical model of monsoons exhibits no abrupt response to forcing changes when one assumes, consistent with observations, that monsoon circulations export energy away from their ascending branch. We claimed that a previous model incorrectly produced an abrupt response because it neglected the adiabatic cooling of rising air in a stably stratified troposphere. Levermann et al. argue that the abrupt response is preserved in their  model as long as adiabatic cooling does not balance the latent heat released during precipitation formation, and that neither theory nor observations support the idea that most of the energy from the rain’s latent heat release is consumed by adiabatic cooling."
 authors = ["Boos, W.R.", "Storelvmo, T."]
-date = "2016-01-01"
+date = "2016-02-02"
 image_preview = ""
 math = true
 url_pdf = "pdf/BoosStorelvmo2016b_ReplyToLevermann.pdf"

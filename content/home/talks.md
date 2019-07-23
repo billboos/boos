@@ -19,7 +19,7 @@ detailed_list = false
 
 +++
 
-*I'm thinking about my carbon footprint and trying to minimize travel, though I do undertake trips that are important for my mission of trying to improve the understanding and prediction of precipitation in tropical, developing countries.  I post my travel plans here in hopes that future trips might be combined to minimize air travel. One cross-country, round-trip U.S. flight [emits about](http://co2offsets.sustainabletravelinternational.org/ua/offsets) 1000 kg of CO2, while one long-haul international round trip emits about 2000 kg of CO2.  In comparison, all of the electricity, natural gas, and municipal water used by my 2-person household [are estimated to](https://coolclimate.berkeley.edu/calculator) generate about 4500 kg of CO2 per year.* 
+*I'm thinking about my carbon footprint and trying to minimize travel, though I do undertake trips that are important for my mission of trying to improve the understanding and prediction of precipitation in tropical, developing countries.  I post my travel plans here in hopes that future trips might be combined to minimize air travel. One cross-country, round-trip U.S. flight [emits about](http://co2offsets.sustainabletravelinternational.org/ua/offsets) 1000 kg of CO2, while one long-haul international round trip emits about 2000 kg of CO2.  In comparison, all of the electricity, natural gas, and municipal water used by my 2-person household [are estimated to](https://coolclimate.berkeley.edu/calculator) generate about 4000 kg of CO2 per year.* 
 
 [//]: # (Universidad Nacional Autónoma de México, annual Panorama of the Atmospheric Sciences, July 31, 2018)
 

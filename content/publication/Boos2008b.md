@@ -9,7 +9,7 @@ url_pdf = "pdf/BoosEmanuel2008a.pdf"
 publication = "*J. Atmos. Sci.*"
 publication_short = "*J. Atmos. Sci.*, 2008, **65**, 2194-2214"
 selected = false
-title = "Wind-evaporation feedback and abrupt seasonal transitions of weak, axisymmetric hadley circulations"
+title = "Wind-evaporation feedback and abrupt seasonal transitions of weak, axisymmetric Hadley circulations"
 [[url_custom]]
    name = "Journal site"
    url = "http://dx.doi.org/10.1175/2007JAS2608.1"

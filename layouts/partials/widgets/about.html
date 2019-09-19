@@ -37,6 +37,17 @@
         {{ end }}
       </div>
 
+      <div class="portrait-title">
+        <h3 itemprop="jobTitle">{{ $.Site.Params.role3 }}</h3>
+        {{ if $.Site.Params.organization2 }}
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          {{ with $.Site.Params.organization3_url }}<a href="{{ . }}" target="_blank" itemprop="url">{{ end }}
+            <span itemprop="name">{{ $.Site.Params.organization3 }}</span>
+          {{ if $.Site.Params.organization3_url }}</a>{{ end }}
+        </h3>
+        {{ end }}
+      </div>
+
       <link itemprop="url" href="{{ $.Site.BaseURL }}">
 
       <ul class="social-icon" aria-hidden="true">

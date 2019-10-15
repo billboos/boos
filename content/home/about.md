@@ -37,5 +37,7 @@ weight = 1
 
 # About 
 
-My research focuses on the fluid dynamics of Earth’s tropical atmosphere. One emphasis is monsoon circulations, which deliver water to billions of people in socially vulnerable, agricultural economies. Despite the importance of monsoon rainfall, there is no established theory that explains the observed variability of monsoons, and climate models make disparate predictions for next-century changes in monsoon rainfall. In my work, I pay particular attention to the treatment of phase changes of water that result in precipitation, as the interaction between precipitation and planetary-scale flow is one of the central unresolved problems of tropical meteorology. To this end, I combine theory, observational analyses, and numerical models, frequently using computationally intensive, high resolution simulations to explicitly represent precipitating atmospheric convection.
+Our group's research focuses on Earth’s tropical climate.  We work on a range of problems involving atmosphere-ocean dynamics, land surface processes, radiative transfer, and thermodynamics.
+One emphasis is monsoon circulations, which deliver water to billions of people living in Asia, Africa, the Americas, and northern Australia; monsoon winds also constitute a major component of the global circulation of Earth's atmosphere. 
+In our work, we combine theory, observational analyses, and numerical models, paying particular attention to the treatment of phase changes of water, as the interaction of precipitating clouds with planetary-scale flow is one of the central unresolved problems of planetary science.
 

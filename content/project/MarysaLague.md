@@ -1,29 +1,29 @@
 +++
 # Date this page was created.
-date = "2019-10-15"
+date = "2019-10-21"
 
 # Project title.
-title = "Quentin Nicolas"
+title = "Marysa LaguË"
 
 # Project summary to display on homepage.
-summary = "Ph.D. student, UC Berkeley"
+summary = "James S. McDonnell Postdoctoral Fellow"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "QuentinNicolas.png"
+image_preview = "MarysaLague.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["gradstudents"]
+tags = ["postdocs"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://eps.berkeley.edu/people/quentin-nicolas"
+external_link = "https://marysalague.com"
 
 # Does the project detail page use math formatting?
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-#image = "headers/QuentinNicolas.png"
+#image = "headers/MichaelDiaz.jpg"
 #caption = "My caption :smile:"
 
 +++

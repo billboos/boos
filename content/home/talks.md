@@ -38,4 +38,6 @@ detailed_list = false
 American Geophysical Union Fall Meeting, San Francisco, December 9-13, 2019 (I can walk to this one!)
 
 Monsoon Mission collaboration, Pune, India, December 15-23, 2019
+
+East coast mini tour: Princeton/GFDL, Harvard, Raleigh-Durham, May 19-26, 2019
  

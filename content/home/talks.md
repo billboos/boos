@@ -35,9 +35,9 @@ detailed_list = false
 
 [//]: # (Department of Energy workshop on precipitation metrics, Washington, D.C., July 1-2, 2019)
 
-American Geophysical Union Fall Meeting, San Francisco, December 9-13, 2019 (I can walk to this one!)
+[//]: # (American Geophysical Union Fall Meeting, San Francisco, December 9-13, 2019 (I can walk to this one!)
 
-Monsoon Mission collaboration, Pune, India, December 15-23, 2019
+[//]: # (Monsoon Mission collaboration, Pune, India, December 15-23, 2019)
 
-East coast mini tour: Princeton/GFDL, Harvard, Raleigh-Durham, May 19-26, 2019
+[//]: # (East coast mini tour: Princeton/GFDL, Harvard, Raleigh-Durham, May 19-26, 2019)
  

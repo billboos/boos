@@ -16,11 +16,11 @@ weight = 60
 
 Current courses at UC Berkeley:
 
-- **EPS 81 | Atmospheres (Spring 2020)**
+- **EPS 181 | Atmospheric Physics and Dynamics (Fall 2020)**
 
 Previous courses:
 
-- EPS 81 | Atmospheres (Spring 2019)
+- EPS 81 | Atmospheres (Spring 2019, 2020)
 - EPS C181 |  Atmospheric Physics and Dynamics (Fall 2017, 2018, 2019)
 - EPS 24 | Death by Water: Risk, Science, and Impacts of Hydrological Extremes (Fall 2017, 2019)
 - Yale GG 765 | The General Circulation of Planetary Atmospheres (Spring 2012, 2015, 2017)

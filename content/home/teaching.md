@@ -14,9 +14,10 @@ weight = 60
 
 +++
 
-Current courses at UC Berkeley:
+Current courses at UC Berkeley *(in Fall 2020 these classes will be taught online, and I would be happy to include any serious students who want to do the full semester of work, even if they are not registered at Berkeley)*:
 
 - **EPS 181 | Atmospheric Physics and Dynamics (Fall 2020)**
+- **EPS 290 | Global Circulation of Planetary Atmospheres (Fall 2020)**
 
 Previous courses:
 

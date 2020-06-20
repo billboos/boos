@@ -16,7 +16,10 @@ weight = 65
 
 [WorldMonsoons.org](http://WorldMonsoons.org), a website with educational pages and recent news about monsoons
 
-[Global track dataset](http://worldmonsoons.org/global-monsoon-disturbance-track-dataset) of monsoon disturbances, as described in [Hurley and Boos (2015)](http://boos.netlify.com/publication/hurley2015)
+Global track datasets of monsoon disturbances:
+
+ - [Tracks in 5 atmospheric reanalyses](https://zenodo.org/record/3890646) compiled using an optimized algorithm, as described in [Vishnu et al. (2020)](http://boos.netlify.com/publication/VishnuEtAl2020_accepted)
+ - [Older dataset](//worldmonsoons.org/global-monsoon-disturbance-track-dataset) based on ERA-Interim data for 1979-2012, as described in [Hurley and Boos (2015)](http://boos.netlify.com/publication/hurley2015)
 
 [Somali jet index](http://worldmonsoons.org/vjetindex.html), a measure of the strength of the South Asian monsoon circulation, and of roughly 30 percent of the global cross-equatorial flow
 

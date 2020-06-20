@@ -14,7 +14,7 @@ weight = 65
 
 +++
 
-My research group will have an opening for a new graduate student to start in Fall 2020.  Details [can be found here](/opportunities/). 
+My research group will have an opening for a new graduate student to start in Fall 2021.  Details [can be found here](/opportunities/). 
 
 [//]: # ( I am pleased to announce a new, multi-institutional partnership to improve understanding and prediction of monsoon rainfall.  As part of this new effort, my group [is actively seeking](/opportunities/) two postdoctoral scientists and a software developer/programmer.  We additionally expect to admit one or two new Ph.D. students to start in Fall 2019.)
  

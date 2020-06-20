@@ -14,7 +14,7 @@ caption = ""
 
 ### Graduate student positions
 
-A graduate student position will be available in the research group of William Boos at UC Berkeley, with start date in Fall 2020.  This position is not tied to any particular project, and candidates are encouraged to think broadly and ambitiously about possible thesis topics.  Interested students with strong quantitative backgrounds are encouraged to apply for admission to the [doctoral program](http://eps.berkeley.edu/graduate-students) of the Department of Earth and Planetary Science. 
+A graduate student position will be available in the research group of William Boos at UC Berkeley, with start date in Fall 2021.  This position is not tied to any particular project, and candidates are encouraged to think broadly and ambitiously about possible thesis topics.  Interested students with strong quantitative backgrounds are encouraged to apply for admission to the [doctoral program](http://eps.berkeley.edu/graduate-students) of the Department of Earth and Planetary Science. 
 [//]: # (Due to the number of inquiries, I cannot reply to individual requests concerning graduate admissions; I plan to arrange phone or video calls with a subset of candidates after reviewing applications.)
 
 

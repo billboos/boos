@@ -1,6 +1,6 @@
 baseurl = "https://boos.netlify.com/"  # End your URL with a `/` trailing slash.
 title = "William Boos, UC Berkeley"
-copyright = "&copy; 2018 William R. Boos"
+copyright = "&copy; 2020 William R. Boos"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

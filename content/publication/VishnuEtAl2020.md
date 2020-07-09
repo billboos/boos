@@ -9,6 +9,10 @@ publication_short= "*J. Geophys. Res. Atmos.*, in press"
 url_pdf= "pdf/VishnuEtAl2020_accepted.pdf"
 
 [[url_custom]]
+    name = "Journal site"
+    url = "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD032977"
+
+[[url_custom]]
     name = "Track dataset"
     url = "https://zenodo.org/record/3890646"
 +++

@@ -14,7 +14,26 @@ caption = ""
 
 ### Graduate student positions
 
-A graduate student position will be available in the research group of William Boos at UC Berkeley, with start date in Fall 2021.  This position is not tied to any particular project, and candidates are encouraged to think broadly and ambitiously about possible thesis topics.  Interested students with strong quantitative backgrounds are encouraged to apply for admission to the [doctoral program](http://eps.berkeley.edu/graduate-students) of the Department of Earth and Planetary Science. 
+A position in the Ph.D. program of Berkeley's Department of Earth and Planetary Science will be available in the research group of William Boos, with start date in August 2021.
+The student who takes on this position will, over the course of five years and in collaboration with William Boos, produce a body of original research that constitutes a doctoral thesis.
+This position is not tied to any particular project, and candidates are encouraged to think broadly and ambitiously about possible thesis topics.
+Interested students with strong quantitative backgrounds are encouraged to apply for admission to the [doctoral program](http://eps.berkeley.edu/graduate-students) of the Department of Earth and Planetary Science.
+Detailed information on our doctoral program can be found in the [graduate handbook](https://docs.google.com/document/d/1L6QZGsDXifje49LTfOKmtAbktOK3771a4iM08t7oPj4/edit?usp=sharing).
+
+This graduate student position includes complete financial support, meaning that tuition, fees, health insurance, and a stipend are all paid while you make satisfactory progress toward the Ph.D. degree.
+This typically means that five years of funding are provided.
+The Ph.D. qualifying exam must be passed near the end of the second year, and all students are strongly encouraged to serve as a teaching assistant for at least two semesters during the five-year program.
+The current stipend is roughly USD 40,000 per year; your tuition, fees, and benefits amount to about USD 35,000 per year and are additionally paid for.
+The financial support for your studies comes in a variety of forms, primarily governmental research grants to the Boos group but also fellowship programs and compensation for teaching assistant duties.
+
+Students who are interested in this opportunity are encouraged to contact Prof. William Boos [by email](mailto:william.boos@berkeley.edu), providing a transcript (unofficial is fine), a brief (e.g. 1-2 paragraph) statement of your research interests, and any other relevant materials you would like to be considered.
+Due to the number of inquiries typically received, not all individual requests can be replied to; I strive to respond to prospective students whose applications would be strongly competitive for admission.  Video calls will be arranged with a subset of applicants after applications are reviewed (typically in January and February). 
+
+Berkeley charges an application fee of USD 120 for US citizens and permanent residents, and USD 140 for all others.  Students who cannot afford to pay this application fee can apply for a [fee waiver](https://grad.berkeley.edu/admissions/apply/fee-waiver/) if they are a US citizen or permanent resident.
+Unfortunately, Berkeley does not offer any formal fee waivers for international students.  However, if you are an international student who cannot afford to pay the application fee, you may upload a single PDF file containing a complete transcript (unofficial is fine), a [personal statement](https://grad.berkeley.edu/admissions/apply/personal-statement/), a [statement of purpose](https://grad.berkeley.edu/admissions/apply/statement-purpose/), and a cover letter briefly explaining your need for an application fee waiver to [this web portal](https://berkeley.app.box.com/f/c2b9d675604e47b7a8adfd96ae2da428) by December 1, 2020 (two weeks in advance of Berkeley's official application deadline of December 15).
+Students whose applications are very strongly competitive will be contacted and asked to provide a full application, including reference letters, by the December 15 deadline, and the application fee will be paid by the Boos research group. 
+
+ 
 [//]: # (Due to the number of inquiries, I cannot reply to individual requests concerning graduate admissions; I plan to arrange phone or video calls with a subset of candidates after reviewing applications.)
 
 

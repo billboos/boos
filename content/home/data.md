@@ -25,4 +25,5 @@ Global track datasets of monsoon disturbances:
 
 [South Asian vertical shear index](http://worldmonsoons.org/WebsterYangIndex.html), the strength of the vertical shear of the zonal wind over South Asian.  This was developed by Webster and Yang (1992, QJRMS) as a measure of the strength of the South Asian monsoon circulation.
  
+[Output](https://drive.google.com/drive/folders/1TRPDL6JkcLjgTHJL9Ib_Z4XuPyvNVIyY?usp=sharing) from an idealized quasi-global aquaplanet model run without a convective parameterization (through use of the hypohydrostatic rescaling), from [our paper](https://boos.netlify.com/publication/ogormanetal2020/) that used this model to study the response of extreme precipitation to uniform surface warming.
 

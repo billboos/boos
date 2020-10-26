@@ -1,12 +1,12 @@
 +++
 selected = true
-title= "Response of extreme precipitation to climate warming in quasi-global aquaplanet simulations at high resolution"
-date= "2020-07-07"
-abstract= "Projections of changes in precipitation extremes in simulations with global climate models remain very uncertain in the tropics, at least partly because of the use of parameterizations of deep convection. Global climate models are also typically run at too coarse a resolution to properly simulate convective organization which can be important for generating heavy rainfall. Here we analyze precipitation extremes in high-resolution simulations run without a convective parameterization in a quasi-global aquaplanet configuration for both a control and warmer climate. The frequency distributions of precipitation rates and precipitation cluster sizes in the tropics of the control simulation are similar to the observed distributions. In response to climate warming, 3-hourly precipitation extremes increase at rates of up to 9%/K in the tropics because of a combination of positive thermodynamic and dynamic contributions, although this remains much smaller than the large tropical rates of increase found in some global climate models. The response of precipitation extremes to climate warming is stronger at high latitudes and weaker in the tropics if the precipitation rates are first averaged to a daily timescale and spatially coarse- grained to typical global climate-model resolution prior to calculating extremes. Changes in moist static stability are found to be helpful for understanding the dynamical contribution to changes in precipitation extremes at different latitudes."
+title= "Response of extreme precipitation to uniform surface warming in quasi-global aquaplanet simulations at high resolution"
+date= "2020-10-26"
+abstract= "Projections of precipitation extremes in simulations with global climate models are very uncertain in the tropics, in part because of the use of parameterizations of deep convection and model deficiencies in simulating convective organization. Here we analyze precipitation extremes in high-resolution simulations that are run without a convective parameterization on a quasi-global aquaplanet. The frequency distributions of precipitation rates and precipitation cluster sizes in the tropics of a control simulation are similar to the observed distributions. In response to climate warming, 3-hourly precipitation extremes increase at rates of up to 9% K−1 in the tropics because of a combination of positive thermodynamic and dynamic contributions. The dynamic contribution at different latitudes is connected to the vertical structure of warming using a moist static stability. When the precipitation rates are first averaged to a daily timescale and coarse-grained to a typical global climate-model resolution prior to calculating the precipitation extremes, the response of the precipitation extremes to warming becomes more similar to what was found previously in coarse-resolution aquaplanet studies. However, the simulations studied here do not exhibit the high rates of increase of tropical precipitation extremes found in projections with some global climate models."
 authors= ["O'Gorman, P. A.","Li, Z.","Boos, W. R.","Yuval, J."]
 publication= "*Philosophical Transactions A*"
-publication_short= "*Philosophical Transactions A*, submitted"
-url_pdf= "pdf/OGormanEtAl_submitted.pdf"
+publication_short= "*Philosophical Transactions A*, accepted"
+url_pdf= "pdf/OGormanEtAl_accepted.pdf"
 
 
 [[url_custom]]

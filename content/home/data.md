@@ -27,3 +27,4 @@ Global track datasets of monsoon disturbances:
  
 [Output](https://drive.google.com/drive/folders/1TRPDL6JkcLjgTHJL9Ib_Z4XuPyvNVIyY?usp=sharing) from an idealized quasi-global aquaplanet model run without a convective parameterization (through use of the hypohydrostatic rescaling), from [our paper](https://boos.netlify.com/publication/ogormanetal2020/) that used this model to study the response of extreme precipitation to uniform surface warming.
 
+[Moist energy balance model](https://github.com/hgpeterson/mebm), written in Python by [Henry Peterson](https://climate-dynamics.org/people/hpeterson/) and used in [Peterson and Boos (2020)](https://www.nature.com/articles/s41612-020-0114-4) to analyze the influence of radiative feedbacks and eddy diffusivity on tropical rainfall shifts.

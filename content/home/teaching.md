@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-In Spring 2020 I will not be teaching, in order to devote my full effort to a Research Professorship with the [Miller Institute](https://miller.berkeley.edu/).   
+In Spring 2021 I will not be teaching, in order to devote my full effort to a Research Professorship with the [Miller Institute](https://miller.berkeley.edu/).   
 
 Previous courses:
 

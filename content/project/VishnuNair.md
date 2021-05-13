@@ -6,7 +6,7 @@ date = "2019-01-29"
 title = "S. Vishnu"
 
 # Project summary to display on homepage.
-summary = "Postdoctoral scholar, UC Berkeley (sponsored by India's Monsoon Mission)"
+summary = "Postdoctoral scholar"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "VishnuNair.jpg"

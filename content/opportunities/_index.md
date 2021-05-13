@@ -16,7 +16,7 @@ caption = ""
 
 ### Graduate student positions
 
-A position in the Ph.D. program of Berkeley's Department of Earth and Planetary Science will be available in the research group of William Boos, with start date in August 2021.
+A position in the Ph.D. program of Berkeley's Department of Earth and Planetary Science will be available in the research group of William Boos, with start date in August 2022.
 The student who takes on this position will, over the course of five years and in collaboration with William Boos, produce a body of original research that constitutes a doctoral thesis.
 This position is not tied to any particular project, and candidates are encouraged to think broadly and ambitiously about possible thesis topics.
 Interested students with strong quantitative backgrounds are encouraged to apply for admission to the [doctoral program](http://eps.berkeley.edu/graduate-students) of the Department of Earth and Planetary Science.
@@ -25,7 +25,7 @@ Detailed information on our doctoral program can be found in the [graduate handb
 This graduate student position includes complete financial support, meaning that tuition, fees, health insurance, and a stipend are all paid while you make satisfactory progress toward the Ph.D. degree.
 This typically means that five years of funding are provided.
 The Ph.D. qualifying exam must be passed near the end of the second year, and all students are strongly encouraged to serve as a teaching assistant for at least two semesters during the five-year program.
-The current stipend is roughly USD 40,000 per year; your tuition, fees, and benefits amount to about USD 35,000 per year and are additionally paid for.
+The current stipend is roughly USD 42,000 per year; your tuition, fees, and benefits (including health insurance) amount to about USD 30,000 per year and are additionally paid for.
 The financial support for your studies comes in a variety of forms, primarily governmental research grants to the Boos group but also fellowship programs and compensation for teaching assistant duties.
 
 Students who are interested in this opportunity are encouraged to contact Prof. William Boos [by email](mailto:william.boos@berkeley.edu), providing a transcript (unofficial is fine), a brief (e.g. 1-2 paragraph) statement of your research interests, and any other relevant materials you would like to be considered.

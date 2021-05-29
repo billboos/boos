@@ -6,7 +6,7 @@ date = "2021-04-07"
 title = "Suhas D. L."
 
 # Project summary to display on homepage.
-summary = "Postdoctoral scholar (sponsored by India's Monsoon Mission)"
+summary = "Postdoctoral scholar, Ph.D. (Indian Institute of Science), sponsored by India's Monsoon Mission"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "SuhasDL.jpg"

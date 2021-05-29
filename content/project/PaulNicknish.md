@@ -6,7 +6,7 @@ date = "2021-05-12"
 title = "Paul Nicknish"
 
 # Project summary to display on homepage.
-summary = "Research Assistant"
+summary = "Research Assistant, B.A. Applied Math (Berkeley)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "PaulNicknish.jpg"

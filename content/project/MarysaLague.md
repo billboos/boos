@@ -6,7 +6,7 @@ date = "2019-10-21"
 title = "Marysa LaguË"
 
 # Project summary to display on homepage.
-summary = "James S. McDonnell Postdoctoral Fellow (now located at the Coldwater Lab & Center for Hydrology)"
+summary = "James S. McDonnell Postdoctoral Fellow, Ph.D. (University of Washington), now located at Coldwater Lab & Center for Hydrology in Canada"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "MarysaLague.jpg"

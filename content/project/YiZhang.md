@@ -6,7 +6,7 @@ date = "2021-05-13"
 title = "Yi Zhang"
 
 # Project summary to display on homepage.
-summary = "Miller Postdoctoral Fellow"
+summary = "Miller Postdoctoral Fellow, Ph.D. (Princeton)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "YiZhang.jpg"
